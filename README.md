@@ -1,18 +1,7 @@
-## Getting Started
+## Interview Question For HashMap
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Given a hashmap print out all the values that are repeated more than twice in the ascending order of values
 
-## Folder Structure
+## Linkedin
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://www.linkedin.com/feed/update/urn:li:activity:7025841628925816832?utm_source=share&utm_medium=member_desktop
